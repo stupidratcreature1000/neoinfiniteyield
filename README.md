@@ -8,7 +8,7 @@ This is a clone of infinite yield except I add more stupid but fun commands, and
 loadstring(game:HttpGet("https://raw.githubusercontent.com/stupidratcreature1000/neoinfiniteyield/refs/heads/master/source"))()
 ```
 
- - Currently 400 commands
+ - Currently 401 commands
  - Open Source
  - 7+ years of development
 
@@ -24,3 +24,7 @@ Neo infinite yeild doesn't have a wiki...
 
 ## Contributing
 There is no specific rules on contributing (as of now) just open a [pull request](https://github.com/stupidratcreature1000/neoinfiniteyield/pulls) and if it checks out we will merge it!
+
+
+
+nevermind infinite yield has plugins fuh ts
